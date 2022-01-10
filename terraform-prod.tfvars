@@ -1,1 +1,0 @@
-aws_type="t3.medium"
